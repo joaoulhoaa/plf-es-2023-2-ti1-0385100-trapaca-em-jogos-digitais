@@ -4,11 +4,11 @@
 Esse site serve para fazer o relato sobre os cheats em jogo e fazer a denúncia, além de poder entender como o cheat funciona e por que o anti-cheat existe.
 
 ## Alunos integrantes da equipe
-
+* Felipe de Assis Pinheiro
 * João Vitor Carvalho Domingos
 * João Lourenço Ulhoa
 * João Guilherme
-* Samuel
+* Samuel Carvalho
 
 ## Professores responsáveis
 
